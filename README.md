@@ -1,4 +1,4 @@
-E/.myapp: Invalid ID 0x00000001 - Error resource ID 
+E/iardini.error0: Invalid ID 0x00000001 - Error resource ID
 =======
 
 This is an android project replicate of an stackoverflow error. 
