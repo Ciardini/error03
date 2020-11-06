@@ -25,9 +25,6 @@ The only things that emerge from the message are:
 
 
 
-**What does the error message depend on? How can I fix it?**
-
-Thanks in advance!
 
 
   [1]: https://github.com/Ciardini/error03
