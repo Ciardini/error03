@@ -2,7 +2,7 @@ E/iardini.error0: Invalid ID 0x00000001 - Error resource ID
 =======
 
 This is an android project replicate of an stackoverflow error. 
-See the [question](https://stackoverflow.com/questions/64714292/e-myapp-invalid-id-0x00000002-error-resource-id) for a list of known issues and solution. 
+See the [question](https://stackoverflow.com/questions/64719193/e-iardini-error0-invalid-id-0x00000001-error-resource-id) for a list of known issues and solution. 
 
 I am currently stuck on an error that continues to slow down the performance of my application.
 
